@@ -1,0 +1,8 @@
+{
+  "name": "observable-tutorial",
+  "version": "1.0.0",
+  "dependencies": {
+    "rxjs": "^6.5.4",
+    "rxjs-compat": "^6.5.4"
+  }
+}
